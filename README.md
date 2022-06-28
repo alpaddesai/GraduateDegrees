@@ -2,7 +2,7 @@
 
 The project provides overview of graduate level transcripts
 
-Confidential information is not displayed. Please download the executable in 
+Confidential information is not displayed. Please download the executable in https://github.com/alpaddesai/GraduateDegrees/releases
 
 All images are either custom by Alpa D Desai or a reference source is provided.
 
