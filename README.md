@@ -9,4 +9,4 @@ All images are either custom by Alpa D Desai or a reference source is provided.
 ## Graduate Degrees
 ![image](GraduateDegrees.jpg)
 
-Additional details please reference https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel, https://github.com/alpaddesai/UndergraduateDegree_PowerandInfluentialSkills and https://github.com/alpaddesai/TestScores
+Additional details please reference https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel, https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/TestScores
