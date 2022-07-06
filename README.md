@@ -7,6 +7,6 @@ Confidential information is not displayed. Please download the executable in htt
 All images are either custom by Alpa D Desai or a reference source is provided.
 
 ## Graduate Degrees
-![image](GraduateDegrees.jpg)
+![image](GraduateDegreesI.jpg)
 
 Additional details please reference https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel, https://github.com/alpaddesai/PowerandInfluentialSkills, https://github.com/alpaddesai/RankCertificatesUndergraduateDegree and https://github.com/alpaddesai/TestScores
